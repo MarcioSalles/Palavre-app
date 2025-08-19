@@ -1,0 +1,5 @@
+{
+  "name": "PALAVRE",
+  "description": "Um jogo de adivinhação de palavras inspirado em sucessos como o Wordle, totalmente em português do Brasil. O objetivo é descobrir a palavra secreta de 5 letras em até 6 tentativas, com feedback visual a cada palpite.",
+  "requestFramePermissions": []
+}
